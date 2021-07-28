@@ -1,1 +1,6 @@
 # Ruby
+Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. Ruby is dynamically typed and uses garbage collection and just-in-time compilation. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, BASIC, and Lisp.</br></br>
+We studied in detail about Ruby from the book <ins>**[Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)**</ins> by **Zed A. Shaw**.</br></br>
+We practiced the exercises from the book ,some of which can be found <ins>**[here](https://github.com/maverick-AB/6W6L/blob/main/Ruby/practice.rb)**</ins>.</br></br>
+Then we implemented it by making a Multiplayer **TicTacToe** Game in **CLI** using Ruby.</br>
+My game can be found here: <ins>**[TicTacToe](https://github.com/maverick-AB/6W6L/blob/main/Ruby/tictactoe.rb)**</ins>
