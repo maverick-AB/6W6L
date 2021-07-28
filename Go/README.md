@@ -1,1 +1,8 @@
 # Go
+Go is a statically typed, compiled programming language designed at **Google** by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to **C**, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. The language is often referred to as Golang because of its domain name, golang.org, but the proper name is Go.</br>
+Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore.</br>
+Go is gaining popularity in **Webdev** (in cloud-native apps, which require multiple concurrent socket connections). Also, it is pretty popular in developing **Private Blockchain systems**, again due to pointers, interfaces and concurrency. </br></br>
+We learned the basics concepts in Go through this website : <ins>[https://tour.golang.org/list](https://tour.golang.org/list)</ins></br>
+To test the code one can visit : <ins>[https://play.golang.org/](https://play.golang.org/)</ins></br>
+If you want to set up Go on your system, you can visit : <ins>[https://golang.org/doc/tutorial/getting-started](https://golang.org/doc/tutorial/getting-started)</ins></br></br>
+We also learned about **Interfaces** through this blog : <ins>[https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)</ins>

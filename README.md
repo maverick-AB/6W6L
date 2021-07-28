@@ -5,7 +5,7 @@ This is a project under <ins>**[Programming Club, IIT Kanpur](https://pclub.in/)
 - [Kartikeya Gupta](https://github.com/kartikcode)
 - [Som Tambe](https://github.com/SomTambe)
 ### **AIM:**
-The main aim of this project is to get familiar with six different languages (Python, Ruby, JavaScript, Golang, Julia & Scala) and to understand the different paradigms of programming.
+The main aim of this project is to get familiar with six different languages (Python, Ruby, JavaScript, Go, Julia & Scala) and to understand the different paradigms of programming.
 
 *****************************
 # **General Concepts**

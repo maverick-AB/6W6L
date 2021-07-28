@@ -1,1 +1,11 @@
 # Scala
+Scala is a modern multi-paradigm and a super flexible programming language. It’s purpose of introduction was to resolve scalability issues. Hence the name: “Scala”able Language.</br>
+Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java. Scala source code can be compiled to Java bytecode and run on a Java virtual machine (JVM). Scala provides language interoperability with Java so that libraries written in either language may be referenced directly in Scala or Java code. Like Java, Scala is object-oriented, and uses a syntax termed curly-brace which is similar to the language C.</br>
+Unlike Java, Scala has many features of functional programming languages including currying, immutability, lazy evaluation, and pattern matching. It also has an advanced type system supporting algebraic data types, covariance and contravariance, higher-order types (but not higher-rank types), and anonymous types. Other features of Scala not present in Java include operator overloading, optional parameters, named parameters, and raw strings. </br>
+Official Documentation can be found here: <ins>https://docs.scala-lang.org/tour/tour-of-scala.html</ins></br></br>
+The major introduction of this Programming Language came in when **Twitter** decided to switch to Scala from Ruby. These two blogs cover the story in detail:
+1. <ins>https://medium.com/@mittalyashu/why-did-twitter-switch-from-ruby-on-rails-dac66150044d</ins>
+2. <ins>https://sysgears.com/articles/how-and-why-twitter-uses-scala/</ins></br></br>
+
+We then started learning the basics of Scala and praticised some exercises through this book: <ins>http://aperiodic.net/phil/scala/s-99/</ins></br></br>
+Also, there is an interesting **Blog** written by one of our **Mentor** which can be found out here: <ins>https://medium.com/programming-club-iit-kanpur/learning-scala-from-the-outlook-of-computer-sciences-856704acedff</ins>
